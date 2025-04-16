@@ -9,4 +9,5 @@ A simple and scalable boilerplate for building RESTful APIs using **Node.js** an
 
 # 🚀 Run Project
 npm install
+---
 npm run dev
